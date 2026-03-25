@@ -5,6 +5,7 @@
 ## Due: 26 March 2026
 
 ### Creating Instances(Master-Nodes) and Security Group
+![](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/5c301a5d1672acd1eef63ec967bb8c65d47304ab/Screenshot%202026-03-16%20183955.png)
 
 ### Preparation of Nodes
 
