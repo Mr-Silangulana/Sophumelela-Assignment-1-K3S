@@ -3,3 +3,5 @@
 ## Student Number: 222518502  
 ## Repository: Sophumelela-Assignment-1-K3S 
 ## Due: 26 March 2026
+--
+# Creating Instances(Master-Nodes) and Security Group
