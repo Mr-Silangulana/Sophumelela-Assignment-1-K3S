@@ -13,7 +13,7 @@
 ### Verification of Cluster Membership
 ![](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/85450a2c0ab3dab50065c7fea6a29ab69772d26f/Screenshot%202026-03-26%20182922.png)
 ### Deploying of Test Applications
-![]()
+![](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/293f29b5881f3bacf27ec21def0d025b91f8ca6c/Screenshot%202026-03-26%20185720.png)
 ### Installation on NGINX Ingress Controller
 1[]()
 ### Default Storage Configuration
