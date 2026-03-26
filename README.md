@@ -18,5 +18,7 @@
 ![](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/28210afe5b1fcdd074f9dd32d67d7f90248d9bbd/Screenshot%202026-03-26%20190654.png)
 ### Default Storage Configuration
 ![](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/d9e82d09abafbaf9637676f40b29a123ca4c103f/Screenshot%202026-03-26%20191749.png)
-### Uninstalling K3S
-![]()
+### Uninstalling K3S ###
+![](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/62dc1089f7a659a9f1a00fc3bfcc4287e0541e4a/Screenshot%202026-03-26%20192515.png)
+
+## Reflection ##
