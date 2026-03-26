@@ -11,7 +11,7 @@
 ![](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/2eeee7bd2a2028cc9ab088e50848d247ed904a9e/Screenshot%202026-03-26%20182557.png)
 
 ### Verification of Cluster Membership
-![]()
+![](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/85450a2c0ab3dab50065c7fea6a29ab69772d26f/Screenshot%202026-03-26%20182922.png)
 ### Deploying of Test Applications
 ![]()
 ### Installation on NGINX Ingress Controller
