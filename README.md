@@ -15,7 +15,7 @@
 ### Deploying of Test Applications
 ![](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/293f29b5881f3bacf27ec21def0d025b91f8ca6c/Screenshot%202026-03-26%20185720.png)
 ### Installation on NGINX Ingress Controller
-1[]()
+1[](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/28210afe5b1fcdd074f9dd32d67d7f90248d9bbd/Screenshot%202026-03-26%20190654.png)
 ### Default Storage Configuration
 ![]()
 ### Uninstalling K3S
