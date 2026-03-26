@@ -8,13 +8,15 @@
 ![](https://github.com/Mr-Silangulana/Sophumelela-Assignment-1-K3S/blob/5c301a5d1672acd1eef63ec967bb8c65d47304ab/Screenshot%202026-03-16%20183955.png)
 
 ### Preparation of Nodes
+![]()
 
-### Verification of K3S Installation on All Master Nodes
-
+### Verification of Cluster Membership
+![]()
 ### Deploying of Test Applications
-
+![]()
 ### Installation on NGINX Ingress Controller
-
+1[]()
 ### Default Storage Configuration
-
+![]()
 ### Uninstalling K3S
+![]()
